@@ -1,4 +1,4 @@
-﻿# FoodLens AI - Deterministic Food Intelligence Platform
+﻿# FailureLens
 
 
 ## What I have learned building this ( Might be useful for anyone who reads it. I hope nobody reads it...)
